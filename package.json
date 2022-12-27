@@ -1,0 +1,27 @@
+{
+  "name": "cypress-meetingroom",
+  "version": "1.0.0",
+  "description": "automation testing with framework cypress in project meeting room application",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drajat2610/Cypress-MeetingRoom.git"
+  },
+  "keywords": [
+    "cypress",
+    "uitesting",
+    "javascript"
+  ],
+  "author": "drajatp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drajat2610/Cypress-MeetingRoom/issues"
+  },
+  "homepage": "https://github.com/drajat2610/Cypress-MeetingRoom#readme",
+  "dependencies": {
+    "cypress": "^12.2.0"
+  }
+}
